@@ -2,6 +2,7 @@
 
 **sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ learning 💻 programming to become a 🚀 software engineer, with a 📈 digital marketing background.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... own projects 
