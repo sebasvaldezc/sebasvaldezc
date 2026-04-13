@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... own projects 
-- 🌱 I’m currently learning ... learning new programming languages and ethical hacking tools
-- 👯 I’m looking to collaborate on ... open source projects
-- 🤔 I’m looking for help with ... learning rust
-- ⚡ Fun fact: ... I’ve built my first pc without exploding at of age 14
+- 🔭 I’m currently working on ... personal projects 
+- 🌱 I’m currently learning ... programming languages & ethical hacking tools  
+- 👯 I’m looking to collaborate on ... open-source projects  
+- 🤔 I’m looking for help with ... Rust 
+- ⚡ Fun fact: ... built my first PC at 14 without blowing anything up 💻
   
 <h2 align="center">🌱 My Skills</h2>
 
