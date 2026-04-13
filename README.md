@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 🌱 My Skills
+<h2 align="center">🌱 My Skills</h2>
 
 ### ⚙️ Softwares
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 
 ### 📚 Frameworks and Libraries
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
