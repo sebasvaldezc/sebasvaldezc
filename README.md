@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... personal projects 
+- 🔭 I’m currently working on ... IT personal projects 
 - 🌱 I’m currently learning ... programming languages & ethical hacking tools  
 - 👯 I’m looking to collaborate on ... open-source projects  
 - 🤔 I’m looking for help with ... Rust 
