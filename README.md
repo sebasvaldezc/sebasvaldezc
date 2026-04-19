@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
-**sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ who enjoys constanlty learning 💻 programming languages to become a future 🚀 full software engineer, with a 📈 digital marketing background.
+**sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ who enjoys constanlty learning 💻 programming languages to become a future 🚀 full software engineer, with a  strong 📈 digital marketing background.
 
 
 Here are some ideas to get you started:
