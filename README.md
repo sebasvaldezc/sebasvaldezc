@@ -1,5 +1,9 @@
 <h2 align="center">Hi there 👋</h2>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sebasvaldezc&color=blueviolet"/>
+</p>
+
 **sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ who enjoys constanlty learning 💻 programming languages to become a future 🚀 full software engineer, with a  strong 📈 digital marketing background.
 
 
