@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=sebasvaldezc&color=blueviolet"/>
 </p>
 
-**sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ who enjoys constanlty learning 💻 programming languages to become a future 🚀 full software engineer, with a  strong 📈 digital marketing background.
+**sebasvaldezc/sebasvaldezc** is a ✨ cybersecurity student ✨ who enjoys constanlty learning 💻 programming languages to become a future 🚀 full software engineer at a company.
 
 
 Here are some ideas to get you started:
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 ### 📚 Libraries
-<img src="https://img.shields.io/badge/Tkinter-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tkinter-blue?style=for-the-badge&logo=python&logoColor=white"/>
