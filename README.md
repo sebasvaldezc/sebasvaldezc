@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 
 
-### 📚 Frameworks and Libraries
-<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+### 📚 Libraries
+<img src="https://img.shields.io/badge/Tkinter-blue?style=for-the-badge"/>
